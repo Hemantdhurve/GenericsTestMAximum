@@ -1,0 +1,15 @@
+F:\VisualStudio\source\repos\GenericsProblems\UC2_MaxFloat\UC2_MaxFloat\bin\Debug\net6.0\UC2_MaxFloat.exe
+F:\VisualStudio\source\repos\GenericsProblems\UC2_MaxFloat\UC2_MaxFloat\bin\Debug\net6.0\UC2_MaxFloat.deps.json
+F:\VisualStudio\source\repos\GenericsProblems\UC2_MaxFloat\UC2_MaxFloat\bin\Debug\net6.0\UC2_MaxFloat.runtimeconfig.json
+F:\VisualStudio\source\repos\GenericsProblems\UC2_MaxFloat\UC2_MaxFloat\bin\Debug\net6.0\UC2_MaxFloat.dll
+F:\VisualStudio\source\repos\GenericsProblems\UC2_MaxFloat\UC2_MaxFloat\bin\Debug\net6.0\UC2_MaxFloat.pdb
+F:\VisualStudio\source\repos\GenericsProblems\UC2_MaxFloat\UC2_MaxFloat\obj\Debug\net6.0\UC2_MaxFloat.csproj.AssemblyReference.cache
+F:\VisualStudio\source\repos\GenericsProblems\UC2_MaxFloat\UC2_MaxFloat\obj\Debug\net6.0\UC2_MaxFloat.GeneratedMSBuildEditorConfig.editorconfig
+F:\VisualStudio\source\repos\GenericsProblems\UC2_MaxFloat\UC2_MaxFloat\obj\Debug\net6.0\UC2_MaxFloat.AssemblyInfoInputs.cache
+F:\VisualStudio\source\repos\GenericsProblems\UC2_MaxFloat\UC2_MaxFloat\obj\Debug\net6.0\UC2_MaxFloat.AssemblyInfo.cs
+F:\VisualStudio\source\repos\GenericsProblems\UC2_MaxFloat\UC2_MaxFloat\obj\Debug\net6.0\UC2_MaxFloat.csproj.CoreCompileInputs.cache
+F:\VisualStudio\source\repos\GenericsProblems\UC2_MaxFloat\UC2_MaxFloat\obj\Debug\net6.0\UC2_MaxFloat.dll
+F:\VisualStudio\source\repos\GenericsProblems\UC2_MaxFloat\UC2_MaxFloat\obj\Debug\net6.0\refint\UC2_MaxFloat.dll
+F:\VisualStudio\source\repos\GenericsProblems\UC2_MaxFloat\UC2_MaxFloat\obj\Debug\net6.0\UC2_MaxFloat.pdb
+F:\VisualStudio\source\repos\GenericsProblems\UC2_MaxFloat\UC2_MaxFloat\obj\Debug\net6.0\UC2_MaxFloat.genruntimeconfig.cache
+F:\VisualStudio\source\repos\GenericsProblems\UC2_MaxFloat\UC2_MaxFloat\obj\Debug\net6.0\ref\UC2_MaxFloat.dll
