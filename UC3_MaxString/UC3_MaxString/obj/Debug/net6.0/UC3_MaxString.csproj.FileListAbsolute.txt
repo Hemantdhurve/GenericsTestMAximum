@@ -1,0 +1,15 @@
+F:\VisualStudio\source\repos\GenericsProblems\UC3_MaxString\UC3_MaxString\bin\Debug\net6.0\UC3_MaxString.exe
+F:\VisualStudio\source\repos\GenericsProblems\UC3_MaxString\UC3_MaxString\bin\Debug\net6.0\UC3_MaxString.deps.json
+F:\VisualStudio\source\repos\GenericsProblems\UC3_MaxString\UC3_MaxString\bin\Debug\net6.0\UC3_MaxString.runtimeconfig.json
+F:\VisualStudio\source\repos\GenericsProblems\UC3_MaxString\UC3_MaxString\bin\Debug\net6.0\UC3_MaxString.dll
+F:\VisualStudio\source\repos\GenericsProblems\UC3_MaxString\UC3_MaxString\bin\Debug\net6.0\UC3_MaxString.pdb
+F:\VisualStudio\source\repos\GenericsProblems\UC3_MaxString\UC3_MaxString\obj\Debug\net6.0\UC3_MaxString.csproj.AssemblyReference.cache
+F:\VisualStudio\source\repos\GenericsProblems\UC3_MaxString\UC3_MaxString\obj\Debug\net6.0\UC3_MaxString.GeneratedMSBuildEditorConfig.editorconfig
+F:\VisualStudio\source\repos\GenericsProblems\UC3_MaxString\UC3_MaxString\obj\Debug\net6.0\UC3_MaxString.AssemblyInfoInputs.cache
+F:\VisualStudio\source\repos\GenericsProblems\UC3_MaxString\UC3_MaxString\obj\Debug\net6.0\UC3_MaxString.AssemblyInfo.cs
+F:\VisualStudio\source\repos\GenericsProblems\UC3_MaxString\UC3_MaxString\obj\Debug\net6.0\UC3_MaxString.csproj.CoreCompileInputs.cache
+F:\VisualStudio\source\repos\GenericsProblems\UC3_MaxString\UC3_MaxString\obj\Debug\net6.0\UC3_MaxString.dll
+F:\VisualStudio\source\repos\GenericsProblems\UC3_MaxString\UC3_MaxString\obj\Debug\net6.0\refint\UC3_MaxString.dll
+F:\VisualStudio\source\repos\GenericsProblems\UC3_MaxString\UC3_MaxString\obj\Debug\net6.0\UC3_MaxString.pdb
+F:\VisualStudio\source\repos\GenericsProblems\UC3_MaxString\UC3_MaxString\obj\Debug\net6.0\UC3_MaxString.genruntimeconfig.cache
+F:\VisualStudio\source\repos\GenericsProblems\UC3_MaxString\UC3_MaxString\obj\Debug\net6.0\ref\UC3_MaxString.dll
