@@ -23,6 +23,10 @@ namespace UC3_MaxString
             //Console.WriteLine("Using generics find String  among three");
             //string StringMaxNumber = MaxThreeString.MaxThreeStrings("Apple", "Peach", "Banana");
             //Console.WriteLine("Maximum value among them is :" + StringMaxNumber);
+
+            //Console.WriteLine("Using generics find String  among three");
+            //string StringMaxNumber = MaxThreeString.MaxThreeStrings("111", "113", "112");
+            //Console.WriteLine("Maximum value among them is :" + StringMaxNumber);
         }
     }
 }
